@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\2DS_THIAGO\PROGRAMAÇÃO DE APLICATIVOS MOBILE 1\TipCalculator\TipCalculator\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-08-26T01:12:47.924</Modified>
+      <Modified>2023-09-01T22:47:56.741</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\2DS_THIAGO\PROGRAMAÇÃO DE APLICATIVOS MOBILE 1\TipCalculator\TipCalculator\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-08-26T01:12:47.621</Modified>
+      <Modified>2023-09-01T22:47:55.901</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS_THIAGO\PROGRAMAÇÃO DE APLICATIVOS MOBILE 1\TipCalculator\TipCalculator\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\TipCalculator.runtimeconfig.json">
       <PackagePath>TipCalculator.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS_THIAGO\PROGRAMAÇÃO DE APLICATIVOS MOBILE 1\TipCalculator\TipCalculator\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\TipCalculator.dll">
       <PackagePath>TipCalculator.dll</PackagePath>
-      <Modified>2023-08-26T01:12:46.799</Modified>
+      <Modified>2023-09-01T22:47:54.732</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS_THIAGO\PROGRAMAÇÃO DE APLICATIVOS MOBILE 1\TipCalculator\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>TipCalculator.exe</PackagePath>
-      <Modified>2023-08-26T01:12:46.807</Modified>
+      <Modified>2023-09-01T22:47:54.763</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\etechas\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.2\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -920,7 +920,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\2DS_THIAGO\PROGRAMAÇÃO DE APLICATIVOS MOBILE 1\TipCalculator\TipCalculator\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\TipCalculator.deps.json">
       <PackagePath>TipCalculator.deps.json</PackagePath>
-      <Modified>2023-08-26T01:12:47.830</Modified>
+      <Modified>2023-09-01T22:47:56.593</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.52\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
