@@ -25,13 +25,13 @@
             <Slider x:Name="tipPercentSlider" BackgroundColor="#FF7AA1" ThumbColor="#99E0DD" MinimumTrackColor="#C0C0FA" Minimum="0" Maximum="100" Value="15"/>
  
             <HorizontalStackLayout Margin="0,20,0,0" Spacing="10">
-                <Button BackgroundColor="#99E0DD" Text="15%" WidthRequest="150" HorizontalOptions="Center" Clicked="OnNormalTip" BorderColor="Black"/>
-                <Button BackgroundColor="#99E0DD" Text="20%" WidthRequest="150" HorizontalOptions="Center" Clicked="OnGenerousTip" BorderColor="Black"/>
+                <Button BackgroundColor="#99E0DD" Text="15%" WidthRequest="150" HorizontalOptions="Center" Clicked="OnNormalTip" BorderColor="Black" TextColor="black"/>
+                <Button BackgroundColor="#99E0DD" Text="20%" WidthRequest="150" HorizontalOptions="Center" Clicked="OnGenerousTip" BorderColor="Black" TextColor="black"/>
             </HorizontalStackLayout>
 
             <HorizontalStackLayout Margin="0,20,0,0" Spacing="10">
-                <Button BackgroundColor="#99E0DD" x:Name="roundDown" WidthRequest="150" HorizontalOptions="Center" Text="Round Down" BorderColor="Black"/>
-                <Button BackgroundColor="#99E0DD" x:Name="roundUp" WidthRequest="150" HorizontalOptions="Center" Text="Round Up" BorderColor="Black"/>
+                <Button BackgroundColor="#99E0DD" x:Name="roundDown" WidthRequest="150" HorizontalOptions="Center" Text="Round Down" BorderColor="Black" TextColor="black"/>
+                <Button BackgroundColor="#99E0DD" x:Name="roundUp" WidthRequest="150" HorizontalOptions="Center" Text="Round Up" BorderColor="Black" TextColor="black"/>
             </HorizontalStackLayout>
 
         </VerticalStackLayout>
